@@ -1,1 +1,10 @@
 venv/
+
+# Modèles d'IA et poids YOLO
+*.pt
+runs/
+
+# Datasets Roboflow
+league-of-legends-map-detection-*/
+yolov8/
+datasets/
